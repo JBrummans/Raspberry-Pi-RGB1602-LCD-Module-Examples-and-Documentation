@@ -25,3 +25,5 @@ When Googling random snippets from the C example on the product's wiki, I found 
 <http://wiki.banana-pi.org/BPI_LCD_1602_display_module>
 
 Which is an identically designed RGB1602 display but actually has some info regarding the design. Might be useful as it gives more information about the pin out of the GPIO.
+
+![GPIO diagram](./images/LCD_SCH.jpg)
