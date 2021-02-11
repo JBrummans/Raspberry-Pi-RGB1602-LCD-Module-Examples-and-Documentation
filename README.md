@@ -63,3 +63,6 @@ int main()
         }
 }
 ```
+
+This Github repo seems to a library with examples which may work: <https://github.com/dbrgn/RPLCD>
+However there is an issue for the Banana Pi LCD not displaying correctly: <https://github.com/dbrgn/RPLCD/issues/106>
